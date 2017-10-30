@@ -1,4 +1,4 @@
-package com.tll.sbcl.springbcl;
+package com.tll.sbcl.springbootlearn;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringBclApplicationTests {
+public class SpringbootlearnApplicationTests {
 
 	@Test
 	public void contextLoads() {

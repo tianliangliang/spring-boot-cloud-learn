@@ -1,12 +1,12 @@
-package com.tll.sbcl.springbcl;
+package com.tll.sbcl.springcloudlearn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBclApplication {
+public class SpringcloudlearnApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBclApplication.class, args);
+		SpringApplication.run(SpringcloudlearnApplication.class, args);
 	}
 }
